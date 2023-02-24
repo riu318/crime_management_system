@@ -1,0 +1,156 @@
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.Resources.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.exe
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.pdb
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.xml
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.exe
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.xml
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.pdb
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FIRregistrationForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FlashScreenForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.LoginForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.ComplaintRegistrationForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalRegistrationForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.ComplaintUpdateForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.ComplaintViewForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalViewForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FIRViewForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FingerPrintMatcherForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalUpdateForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.MDIParent1.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CasesStatusDisposedForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CasesRegistrationForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseStatusPendingForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseStatusProgressForm.resources
+C:\Users\rinku\OneDrive\Documents\Visual Studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.PoliceStationForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseStatusUpdateForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseReportForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalsListForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.StaffRegistrationForm.resources
+C:\Users\rinku\onedrive\documents\visual studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.StaffUpdateForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.exe
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.xml
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.pdb
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.exe
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.pdb
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.xml
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseStatusUpdateForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CasesRegistrationForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CasesStatusDisposedForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.ComplaintRegistrationForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.ComplaintUpdateForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.ComplaintViewForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalRegistrationForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalsListForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalUpdateForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalViewForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FingerPrintMatcherForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FIRregistrationForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FIRUpdateForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FIRViewForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FlashScreenForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.LoginForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.MDIParent1.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.Resources.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseStatusPendingForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.PoliceStationForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseStatusProgressForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseReportForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.StaffRegistrationForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.StaffUpdateForm.resources
+C:\Users\91636\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.exe
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.xml
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.pdb
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.exe
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.pdb
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.xml
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseStatusUpdateForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CasesRegistrationForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CasesStatusDisposedForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.ComplaintRegistrationForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.ComplaintUpdateForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.ComplaintViewForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalRegistrationForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalsListForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalUpdateForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalViewForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FingerPrintMatcherForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FIRregistrationForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FIRUpdateForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FIRViewForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FlashScreenForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.LoginForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.MDIParent1.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.Resources.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseStatusPendingForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.PoliceStationForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseStatusProgressForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseReportForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.StaffRegistrationForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.StaffUpdateForm.resources
+C:\Users\USER\Desktop\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.exe
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.xml
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.pdb
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.exe
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.pdb
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.xml
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseStatusUpdateForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CasesRegistrationForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CasesStatusDisposedForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.ComplaintRegistrationForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.ComplaintUpdateForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.ComplaintViewForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalRegistrationForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalsListForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalUpdateForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalViewForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FingerPrintMatcherForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FIRregistrationForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FIRUpdateForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FIRViewForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FlashScreenForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.LoginForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.MDIParent1.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.Resources.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseStatusPendingForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.PoliceStationForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseStatusProgressForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseReportForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.StaffRegistrationForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.StaffUpdateForm.resources
+C:\Users\rinku\OneDrive\Pictures\CrimeManagementSystem\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.exe
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.xml
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.pdb
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.exe
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.pdb
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.xml
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseStatusUpdateForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CasesRegistrationForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CasesStatusDisposedForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.ComplaintRegistrationForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.ComplaintUpdateForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.ComplaintViewForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalRegistrationForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalsListForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalUpdateForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CriminalViewForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FingerPrintMatcherForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FIRregistrationForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FIRUpdateForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FIRViewForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.FlashScreenForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.LoginForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.MDIParent1.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.Resources.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseStatusPendingForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.PoliceStationForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseStatusProgressForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.CaseReportForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.StaffRegistrationForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.StaffUpdateForm.resources
+C:\Users\rinku\OneDrive\Desktop\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\rinku\OneDrive\Documents\Visual Studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.WantedCriminalsForm.resources
+C:\Users\rinku\OneDrive\Documents\Visual Studio 2010\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\x86\Debug\CrimeManagementSystem.WantedCriminalListForm.resources

@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{08FAA725-A65B-4CBB-B3DF-E664E0EF6068}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CrimeManagementSystem.My.MyApplication</StartupObject>
+    <RootNamespace>CrimeManagementSystem</RootNamespace>
+    <AssemblyName>CrimeManagementSystem</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CrimeManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CrimeManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CaseStatusUpdateForm.Designer.vb">
+      <DependentUpon>CaseStatusUpdateForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CaseStatusUpdateForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CasesRegistrationForm.Designer.vb">
+      <DependentUpon>CasesRegistrationForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CasesRegistrationForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CasesStatusDisposedForm.Designer.vb">
+      <DependentUpon>CasesStatusDisposedForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CasesStatusDisposedForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComplaintRegistrationForm.Designer.vb">
+      <DependentUpon>ComplaintRegistrationForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ComplaintRegistrationForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComplaintUpdateForm.Designer.vb">
+      <DependentUpon>ComplaintUpdateForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ComplaintUpdateForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComplaintViewForm.Designer.vb">
+      <DependentUpon>ComplaintViewForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ComplaintViewForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CriminalRegistrationForm.Designer.vb">
+      <DependentUpon>CriminalRegistrationForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CriminalRegistrationForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CriminalsListForm.Designer.vb">
+      <DependentUpon>CriminalsListForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CriminalsListForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CriminalUpdateForm.Designer.vb">
+      <DependentUpon>CriminalUpdateForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CriminalUpdateForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CriminalViewForm.Designer.vb">
+      <DependentUpon>CriminalViewForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CriminalViewForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FingerPrintMatcherForm.Designer.vb">
+      <DependentUpon>FingerPrintMatcherForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FingerPrintMatcherForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FIRregistrationForm.Designer.vb">
+      <DependentUpon>FIRregistrationForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FIRregistrationForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FIRUpdateForm.Designer.vb">
+      <DependentUpon>FIRUpdateForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FIRUpdateForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FIRViewForm.Designer.vb">
+      <DependentUpon>FIRViewForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FIRViewForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FlashScreenForm.Designer.vb">
+      <DependentUpon>FlashScreenForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FlashScreenForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.vb">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.vb">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="CaseStatusPendingForm.Designer.vb">
+      <DependentUpon>CaseStatusPendingForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CaseStatusPendingForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PoliceStationForm.Designer.vb">
+      <DependentUpon>PoliceStationForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PoliceStationForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CaseStatusProgressForm.Designer.vb">
+      <DependentUpon>CaseStatusProgressForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CaseStatusProgressForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CaseReportForm.Designer.vb">
+      <DependentUpon>CaseReportForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CaseReportForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffRegistrationForm.Designer.vb">
+      <DependentUpon>StaffRegistrationForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffRegistrationForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffUpdateForm.Designer.vb">
+      <DependentUpon>StaffUpdateForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffUpdateForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CaseStatusUpdateForm.resx">
+      <DependentUpon>CaseStatusUpdateForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CasesRegistrationForm.resx">
+      <DependentUpon>CasesRegistrationForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CasesStatusDisposedForm.resx">
+      <DependentUpon>CasesStatusDisposedForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComplaintRegistrationForm.resx">
+      <DependentUpon>ComplaintRegistrationForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComplaintUpdateForm.resx">
+      <DependentUpon>ComplaintUpdateForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComplaintViewForm.resx">
+      <DependentUpon>ComplaintViewForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CriminalRegistrationForm.resx">
+      <DependentUpon>CriminalRegistrationForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CriminalsListForm.resx">
+      <DependentUpon>CriminalsListForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CriminalUpdateForm.resx">
+      <DependentUpon>CriminalUpdateForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CriminalViewForm.resx">
+      <DependentUpon>CriminalViewForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FingerPrintMatcherForm.resx">
+      <DependentUpon>FingerPrintMatcherForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FIRregistrationForm.resx">
+      <DependentUpon>FIRregistrationForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FIRUpdateForm.resx">
+      <DependentUpon>FIRUpdateForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FIRViewForm.resx">
+      <DependentUpon>FIRViewForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FlashScreenForm.resx">
+      <DependentUpon>FlashScreenForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CaseStatusPendingForm.resx">
+      <DependentUpon>CaseStatusPendingForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PoliceStationForm.resx">
+      <DependentUpon>PoliceStationForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CaseStatusProgressForm.resx">
+      <DependentUpon>CaseStatusProgressForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CaseReportForm.resx">
+      <DependentUpon>CaseReportForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffRegistrationForm.resx">
+      <DependentUpon>StaffRegistrationForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffUpdateForm.resx">
+      <DependentUpon>StaffUpdateForm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
